@@ -1,5 +1,5 @@
 
-# KNN With sklearn
+# KNN with Scikit-learn
 
 ## Introduction
 
